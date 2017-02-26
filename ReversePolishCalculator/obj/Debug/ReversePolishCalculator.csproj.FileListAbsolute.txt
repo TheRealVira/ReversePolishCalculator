@@ -1,0 +1,5 @@
+E:\VSPrograms\ReversePolishCalculator\ReversePolishCalculator\bin\Debug\ReversePolishCalculator.dll
+E:\VSPrograms\ReversePolishCalculator\ReversePolishCalculator\bin\Debug\ReversePolishCalculator.pdb
+E:\VSPrograms\ReversePolishCalculator\ReversePolishCalculator\obj\Debug\ReversePolishCalculator.csprojResolveAssemblyReference.cache
+E:\VSPrograms\ReversePolishCalculator\ReversePolishCalculator\obj\Debug\ReversePolishCalculator.dll
+E:\VSPrograms\ReversePolishCalculator\ReversePolishCalculator\obj\Debug\ReversePolishCalculator.pdb

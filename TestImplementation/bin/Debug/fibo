@@ -1,0 +1,18 @@
+10 x =
+0 a =
+1 b =
+
+start :
+
+1 x - x =
+a temp =
+b a =
+temp b + b =
+
+a PRINTLN
+
+start x JNZ
+
+Finished_The_Task! PRINTLN
+Result:__ PRINT
+a PRINTLN

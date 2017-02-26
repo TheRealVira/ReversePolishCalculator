@@ -1,0 +1,8 @@
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\bin\Debug\TestImplementation.exe.config
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\bin\Debug\TestImplementation.exe
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\bin\Debug\TestImplementation.pdb
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\bin\Debug\ReversePolishCalculator.dll
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\bin\Debug\ReversePolishCalculator.pdb
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\obj\Debug\TestImplementation.csprojResolveAssemblyReference.cache
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\obj\Debug\TestImplementation.exe
+E:\VSPrograms\ReversePolishCalculator\TestImplementation\obj\Debug\TestImplementation.pdb
